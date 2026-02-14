@@ -1,0 +1,33 @@
+SECUREBANK SECURITY ALERT
+
+Dear {{.FirstName}},
+
+We have detected unusual activity on your SecureBank account ending in ****3847.
+
+SUSPICIOUS TRANSACTIONS FLAGGED:
+- Attempted login from unrecognized device (Moscow, Russia)
+- Failed authentication attempts (7 times)
+- Password change request initiated
+
+YOUR ACCOUNT HAS BEEN TEMPORARILY RESTRICTED for your protection.
+
+IMMEDIATE ACTION REQUIRED:
+You must verify your identity within 24 hours or your account will be permanently suspended and funds frozen pending investigation.
+
+Verify your account now:
+{{.URL}}
+
+If you do not recognize this activity, your account may be compromised. Act immediately to prevent unauthorized access and potential financial loss.
+
+Time remaining to verify: 24 hours
+
+SecureBank Security Team
+1-800-SECURE-1
+security@securebank.com
+
+---
+DO NOT REPLY TO THIS EMAIL
+This is an automated security alert from SecureBank fraud prevention system.
+
+---
+This is a security awareness training exercise.
